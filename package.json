@@ -31,5 +31,5 @@
     "not ie <= 11",
     "not op_mini all"
   ],
-  "proxy": "https://europe-west1-chibi-screams.cloudfunctions.net/api"
+  "proxy": "your firebase functions api"
 }
